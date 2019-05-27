@@ -1,0 +1,31 @@
+
+Number of tests: 100
+Execution time : 1578011
+Average time   : 15780
+For 128-bit arguments.
+Results in nanoseconds.
+
+Number of tests: 100
+Execution time : 6098601
+Average time   : 60986
+For 256-bit arguments.
+Results in nanoseconds.
+
+Number of tests: 100
+Execution time : 21590578
+Average time   : 215905
+For 512-bit arguments.
+Results in nanoseconds.
+
+Number of tests: 100
+Execution time : 83800500
+Average time   : 838005
+For 1024-bit arguments.
+Results in nanoseconds.
+
+Number of tests: 100
+Execution time : 364789213
+Average time   : 3647892
+For 2048-bit arguments.
+Results in nanoseconds.
+
